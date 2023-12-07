@@ -1,0 +1,30 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.complete
+{
+    position:absolute;
+    top:40%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background-color: white;
+    padding:10px;
+    border-radius: 10px;
+    line-height: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.complete-1
+{
+    padding-left:70px;
+}
+
+
+
+
+
+
